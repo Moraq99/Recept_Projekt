@@ -1,5 +1,7 @@
 package hu.progmatic;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -13,6 +15,17 @@ public class Main {
                 "vaníliás pudingpor\n",
                 "rúd vanília magjai\n",
                 "csipet só\n"};
+        String[] ingredients2 = {
+                "\n, túró\n",
+                "tojás (sárgája)\n",
+
+                "cukor\n",
+                "vaníliás pudingpor\n",
+                "rúd vanília magjai\n",
+                "csipet só\n"};
+
+        String[] ingredients ={Arrays.toString(ingredients1),Arrays.toString(ingredients2)};
+
         String instruction1 =("\nA tojások sárgáját a cukorral, pudingporral és egy kevés tejjel alaposan elkeverjük\n" +
                 "      (előzőleg a sárgájákat a cukorral kissé habosítjuk).\n" +
                 "      A maradék tejet a vanília magjaival felforraljuk, beleöntjük a masszát, majd addig keverjük,\n" +
@@ -42,11 +55,26 @@ public class Main {
 
 
         System.out.println(recipe1);
+        System.out.println(Arrays.toString(ingredients));
         /*if (recipe1...) {
             System.out.println("Eklészítési utasítás");
         }*/
+
+        for (String i: ingredients){
+            if(i.get)
         }
 
 
-    }
+        }
+
+
+
+    /*public void findRecipe(){*/
+
+
+
+        }
+
+
+
 
