@@ -158,6 +158,8 @@ public class Main {
             System.out.println("Eklészítési utasítás");
         }*/
 
+       // bcigsaiucbskbc
+
 
         }
 
