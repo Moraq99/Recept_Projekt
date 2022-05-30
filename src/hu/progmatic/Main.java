@@ -135,20 +135,20 @@ public class Main {
                 "A cicák túl aranyosak, így nem lenne szíved megenni! :) \n");
 
 
-        Recipe recipe1 = new Recipe("Házi vaniliás túrókrém", "easy", 10, false, ingredients1, instruction1);
-        Recipe recipe2 = new Recipe("Bögrés gofri", "hard", 30, false,ingredients2,instruction2);
-        Recipe recipe3 = new Recipe("Kekszes-tejfölös süti sütés nélkül", "hard", 30, false,ingredients3,instruction3);
-        Recipe recipe4 = new Recipe("BÖGRÉS KEFIRES-MEGGYES KEVERT SÜTI", "hard", 30, false,ingredients4,instruction4);
-        Recipe recipe5 = new Recipe("EGYSZERŰ TÚRÓS KÓKUSZGOLYÓ", "hard", 30, false,ingredients5,instruction5);
+        Recipe recipe1 = new Recipe("Házi vaniliás túrókrém", "easy", 40, false, ingredients1, instruction1);
+        Recipe recipe2 = new Recipe("Bögrés gofri", "easy", 20, false,ingredients2,instruction2);
+        Recipe recipe3 = new Recipe("Kekszes-tejfölös süti sütés nélkül", "easy", 25, false,ingredients3,instruction3);
+        Recipe recipe4 = new Recipe("BÖGRÉS KEFIRES-MEGGYES KEVERT SÜTI", "hard", 50, false,ingredients4,instruction4);
+        Recipe recipe5 = new Recipe("EGYSZERŰ TÚRÓS KÓKUSZGOLYÓ", "easy", 20, false,ingredients5,instruction5);
         Recipe recipe6 = new Recipe("KÓKUSZTEKERCS", "hard", 30, false,ingredients6,instruction6);
         Recipe recipe7 = new Recipe("PUDINGOS KEKSZEK", "hard", 30, true,ingredients7,instruction7);
-        Recipe recipe8 = new Recipe("EGYSZERŰ BANÁNOS MUFFIN", "hard", 30, false,ingredients8,instruction8);
-        Recipe recipe9 = new Recipe("EGYSZERŰ MEGGYES PALACSINTA", "hard", 30, false,ingredients9,instruction9);
-        Recipe recipe10 = new Recipe("TÍZPERCES SÜTŐPOROS FÁNK", "hard", 30, false,ingredients10,instruction10);
-        Recipe recipe11 = new Recipe("KLASSZIKUS TÚRÓGOMBÓC FAHÉJAS TEJFÖLLEL", "hard", 30, false,ingredients11,instruction11);
-        Recipe recipe12 = new Recipe("TEJES PITE", "hard", 30, false,ingredients12,instruction12);
-        Recipe recipe13 = new Recipe("TÚRÓS ZSEMLE, AHOGY A NAGYMAMÁM KÉSZÍTI", "hard", 30, false,ingredients13,instruction13);
-        Recipe recipe14 = new Recipe("Macskapörkölt", "hard", 30, false,ingredients14,instruction14);
+        Recipe recipe8 = new Recipe("EGYSZERŰ BANÁNOS MUFFIN", "hard", 45, false,ingredients8,instruction8);
+        Recipe recipe9 = new Recipe("EGYSZERŰ MEGGYES PALACSINTA", "hard", 35, false,ingredients9,instruction9);
+        Recipe recipe10 = new Recipe("TÍZPERCES SÜTŐPOROS FÁNK", "easy", 10, false,ingredients10,instruction10);
+        Recipe recipe11 = new Recipe("KLASSZIKUS TÚRÓGOMBÓC FAHÉJAS TEJFÖLLEL", "hard", 45, false,ingredients11,instruction11);
+        Recipe recipe12 = new Recipe("TEJES PITE", "hard", 50, false,ingredients12,instruction12);
+        Recipe recipe13 = new Recipe("TÚRÓS ZSEMLE, AHOGY A NAGYMAMÁM KÉSZÍTI", "hard", 35, false,ingredients13,instruction13);
+        Recipe recipe14 = new Recipe("Macskapörkölt", "hard", 60, false,ingredients14,instruction14);
 
 
 
